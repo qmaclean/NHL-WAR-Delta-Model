@@ -9,3 +9,5 @@ The goal is to help identify players that are likely to have an improvement WAR,
 The results of the model are included in the following publication: https://arch.library.northwestern.edu/concern/parent/ks65hc477/file_sets/qf85nb595
 
 The application of the model allows Hockey Operations to identify players who may have been cheap relative to their recent season's performance but are likely to have an improved following season. 
+
+Data downloaded from EvolvingHockey.com
