@@ -16,7 +16,9 @@ Data downloaded from EvolvingHockey.com
 
 ## Top Predictions for 2020/21 season
 
-![image](https://user-images.githubusercontent.com/20390351/144779244-372ead05-eb5c-44be-91c9-fabb4a3423ea.png)
+<img src="https://github.com/qmaclean/NHL-WAR-Delta-Model/blob/main/img/forwad_pred.png" width="100%" />
+
+<img src="https://github.com/qmaclean/NHL-WAR-Delta-Model/blob/main/img/def_pred.png" width="100%" />
 
 
 
