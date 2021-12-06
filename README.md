@@ -12,6 +12,9 @@ The application of the model allows Hockey Operations to identify players who ma
 
 Data downloaded from EvolvingHockey.com
 
+Link to dashboard: 
+https://public.tableau.com/profile/sean.prentis#!/vizhome/MSDS_NHL_Capstone/TitlePage
+
 # Model Results
 
 ## Top Predictions for 2020/21 season
