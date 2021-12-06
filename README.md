@@ -16,10 +16,9 @@ Data downloaded from EvolvingHockey.com
 
 ## Top Predictions for 2020/21 season
 
-![image](https://user-images.githubusercontent.com/20390351/144779159-9dade4b3-3698-4ea5-9a1a-fd6ecc61a4bf.png)
+![image](https://user-images.githubusercontent.com/20390351/144779244-372ead05-eb5c-44be-91c9-fabb4a3423ea.png)
 
 
-![image](https://user-images.githubusercontent.com/20390351/144779182-c2b9bc30-25a3-4b15-978f-531e0c3ecb18.png)
 
 
 
